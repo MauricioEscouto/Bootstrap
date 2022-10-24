@@ -16,3 +16,21 @@
 .cor-especial {
     color: darkred;
 }
+
+.botao-cor-especial {
+    background-color: darkred !important;
+    color: #ffffff !important;
+}
+
+.card-receitas {
+    width: 18rem;
+}
+
+.borda-cor-especial {
+    border-color: darkred !important;
+}
+
+.img-receitas {
+    height: 28vh;
+    object-fit: cover;
+}
