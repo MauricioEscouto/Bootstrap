@@ -23,7 +23,7 @@
 }
 
 .card-receitas {
-    width: 18rem;
+
 }
 
 .borda-cor-especial {
@@ -34,3 +34,11 @@
     height: 28vh;
     object-fit: cover;
 }
+
+.card {
+    padding: 0 !important;
+}
+
+
+
+
