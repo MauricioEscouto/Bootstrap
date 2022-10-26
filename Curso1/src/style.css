@@ -14,7 +14,7 @@
 }
 
 .cor-especial {
-    color: darkred;
+    color: darkred !important;
 }
 
 .botao-cor-especial {
@@ -33,10 +33,6 @@
 .img-receitas {
     height: 28vh;
     object-fit: cover;
-}
-
-.card {
-    padding: 0 !important;
 }
 
 
